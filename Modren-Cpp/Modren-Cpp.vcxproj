@@ -130,7 +130,7 @@
   <ItemGroup>
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
     <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
-    <ClCompile Include=".cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />

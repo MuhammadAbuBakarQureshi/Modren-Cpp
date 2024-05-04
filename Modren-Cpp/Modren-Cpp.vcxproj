@@ -128,7 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Modren-Cpp.cpp" />
+    <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
+    <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
+    <ClCompile Include=".cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

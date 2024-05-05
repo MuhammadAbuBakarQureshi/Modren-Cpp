@@ -30,6 +30,9 @@
     <ClCompile Include="01-String and Character Literals\Raw-String-Literals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01-String and Character Literals\Wide-Characters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">

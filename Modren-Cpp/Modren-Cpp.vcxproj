@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="01-String and Character Literals\Hello.cpp" />
     <ClCompile Include="01-String and Character Literals\Raw-String-Literals.cpp" />
+    <ClCompile Include="01-String and Character Literals\Wide-Characters.cpp" />
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
     <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
     <ClCompile Include="Main.cpp" />

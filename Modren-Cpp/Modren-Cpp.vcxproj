@@ -128,11 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01-String and Character Literals\Hello.cpp" />
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
     <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="01-String and Character Literals\Functioncs.h" />
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -2,3 +2,5 @@
 
 
 int HelloWorld();
+
+int RawStringLiterals();

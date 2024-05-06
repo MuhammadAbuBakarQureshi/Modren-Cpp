@@ -24,13 +24,10 @@
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="01-String and Character Literals\Hello.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Hello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="01-String and Character Literals\Raw-String-Literals.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="01-String and Character Literals\Wide-Characters.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Raw-String-Literals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -38,7 +35,7 @@
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="01-String and Character Literals\Functioncs.h">
+    <ClInclude Include="Basics of Modren Cpp\Functioncs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

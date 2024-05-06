@@ -4,5 +4,3 @@
 int HelloWorld();
 
 int RawStringLiterals();
-
-int WideCharacters();

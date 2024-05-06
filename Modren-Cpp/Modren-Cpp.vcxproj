@@ -128,15 +128,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01-String and Character Literals\Hello.cpp" />
-    <ClCompile Include="01-String and Character Literals\Raw-String-Literals.cpp" />
-    <ClCompile Include="01-String and Character Literals\Wide-Characters.cpp" />
+    <ClCompile Include="Basics of Modren Cpp\Hello.cpp" />
+    <ClCompile Include="Basics of Modren Cpp\Raw-String-Literals.cpp" />
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
     <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="01-String and Character Literals\Functioncs.h" />
+    <ClInclude Include="Basics of Modren Cpp\Functioncs.h" />
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

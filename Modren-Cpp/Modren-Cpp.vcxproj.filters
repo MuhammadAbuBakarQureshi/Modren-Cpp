@@ -30,6 +30,9 @@
     <ClCompile Include="Basics of Modren Cpp\Raw-String-Literals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\Assign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">

@@ -11,9 +11,7 @@ int main() {
 	
 	//RawStringLiterals();
 	
-	int i = 2, j = 3;
-
-	int arr[i][j];
+	assign();
 
 	return 0;
 

@@ -131,6 +131,7 @@
     <ClCompile Include="Basics of Modren Cpp\Assign.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Hello.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Raw-String-Literals.cpp" />
+    <ClCompile Include="Basics of Modren Cpp\Scope.cpp" />
     <ClCompile Include="Matrices-Calculation\Matrices-Multiplication.cpp" />
     <ClCompile Include="Matrices-Calculation\MatricesAdditionSubtraction.cpp" />
     <ClCompile Include="Main.cpp" />

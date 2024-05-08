@@ -11,7 +11,9 @@ int main() {
 	
 	//RawStringLiterals();
 	
-	assign();
+	//assign();
+
+	scope();
 
 	return 0;
 

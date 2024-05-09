@@ -10,3 +10,5 @@ int assign();
 int scope();
 
 int returnType();
+
+int implicitConversion();

@@ -7,15 +7,7 @@ using namespace std;
 
 int main() {
 
-	//HelloWorld();
-	
-	//RawStringLiterals();
-	
-	//assign();
-
-	//scope();
- 
-	returnType();
+	implicitConversion();
 
 	return 0;
 

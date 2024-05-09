@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-	functionOverloading();
+	staticVariable();
 
 	return 0;
 

@@ -131,6 +131,7 @@
     <ClCompile Include="Basics of Modren Cpp\Assign.cpp" />
     <ClCompile Include="Basics of Modren Cpp\FunctionOverloading.cpp" />
     <ClCompile Include="Basics of Modren Cpp\ImplicitConversion.cpp" />
+    <ClCompile Include="Basics of Modren Cpp\StaticVariables.cpp" />
     <ClCompile Include="Basics of Modren Cpp\TrailingReturnType.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Hello.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Raw-String-Literals.cpp" />

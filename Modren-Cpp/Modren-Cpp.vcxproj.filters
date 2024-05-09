@@ -45,6 +45,9 @@
     <ClCompile Include="Basics of Modren Cpp\FunctionOverloading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\StaticVariables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">

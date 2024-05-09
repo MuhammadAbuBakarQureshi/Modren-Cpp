@@ -14,3 +14,5 @@ int returnType();
 int implicitConversion();
 
 int functionOverloading();
+
+int staticVariable();

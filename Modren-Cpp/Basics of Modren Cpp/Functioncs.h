@@ -1,10 +1,12 @@
 #pragma once
 
 
-int HelloWorld();
+int helloWorld();
 
-int RawStringLiterals();
+int rawStringLiterals();
 
 int assign();
 
 int scope();
+
+int returnType();

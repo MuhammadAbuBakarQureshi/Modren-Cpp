@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int HelloWorld() {
+int helloWorld() {
 
 	print("Hello World!");
 

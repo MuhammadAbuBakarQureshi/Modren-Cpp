@@ -13,7 +13,9 @@ int main() {
 	
 	//assign();
 
-	scope();
+	//scope();
+ 
+	returnType();
 
 	return 0;
 

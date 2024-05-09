@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int RawStringLiterals() {
+int rawStringLiterals() {
 
 	//The 1+ trick skips the first newline character in the raw string literal.
 

@@ -12,3 +12,5 @@ int scope();
 int returnType();
 
 int implicitConversion();
+
+int functionOverloading();

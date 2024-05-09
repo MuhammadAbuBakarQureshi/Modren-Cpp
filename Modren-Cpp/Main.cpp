@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-	implicitConversion();
+	functionOverloading();
 
 	return 0;
 

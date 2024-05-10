@@ -18,3 +18,5 @@ int functionOverloading();
 int staticVariable();
 
 int returnPair();
+
+int returnTuple();

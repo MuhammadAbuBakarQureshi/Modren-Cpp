@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="Basics of Modren Cpp\Assign.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\FunctionOverloading.cpp" />
+    <ClCompile Include="Basics of Modren Cpp\Functions\InlineFunction.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\Structured bindings\ReturnPair.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\ImplicitConversion.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\StaticVariables.cpp" />

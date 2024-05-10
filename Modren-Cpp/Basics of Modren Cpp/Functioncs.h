@@ -20,3 +20,5 @@ int staticVariable();
 int returnPair();
 
 int returnTuple();
+
+int inlineFunction();

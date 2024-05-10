@@ -54,6 +54,9 @@
     <ClCompile Include="Basics of Modren Cpp\Functions\Structured bindings\ReturnTuple.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\Functions\InlineFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">

@@ -16,3 +16,5 @@ int implicitConversion();
 int functionOverloading();
 
 int staticVariable();
+
+int returnPair();

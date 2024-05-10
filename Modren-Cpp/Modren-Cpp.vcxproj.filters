@@ -33,19 +33,22 @@
     <ClCompile Include="Basics of Modren Cpp\Assign.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\Scope.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\Scope.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\TrailingReturnType.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\TrailingReturnType.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\ImplicitConversion.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\ImplicitConversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\FunctionOverloading.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\FunctionOverloading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\StaticVariables.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\StaticVariables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\Functions\Structured bindings\ReturnPair.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

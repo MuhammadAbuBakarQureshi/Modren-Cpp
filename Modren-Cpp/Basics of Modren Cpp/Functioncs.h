@@ -26,6 +26,8 @@ int assign();
 
 	int nonReturningFunction();
 
+	int exceptions();
+
 ////// From Structured Bindings
 
 		int returnPair();

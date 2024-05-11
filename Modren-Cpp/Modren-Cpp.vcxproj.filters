@@ -60,7 +60,7 @@
     <ClCompile Include="Basics of Modren Cpp\Functions\Non-ReturningFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Basics of Modren Cpp\InitializeNumbers.cpp">
+    <ClCompile Include="Basics of Modren Cpp\Functions\Exception.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

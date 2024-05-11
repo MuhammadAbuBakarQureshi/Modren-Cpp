@@ -1,6 +1,6 @@
 #include <iostream>
 #include <print>
-#include <cstdlib>
+#include <cstdlib> // Library used for terminate() function
 
 using namespace std;
 

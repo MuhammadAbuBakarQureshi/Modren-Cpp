@@ -7,11 +7,7 @@ using namespace std;
 
 int main() {
 
-	int num1, num2;
-
-	initializeNumbers(num1, num2, 'i');
-
-	cout << num1 << "  " << num2;
+	exceptions();
 
 	return 0;
 

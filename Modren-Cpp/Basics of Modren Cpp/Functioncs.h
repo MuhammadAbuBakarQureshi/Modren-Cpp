@@ -28,6 +28,8 @@ int assign();
 
 	int exceptions();
 
+	int constexprFunction();
+
 ////// From Structured Bindings
 
 		int returnPair();

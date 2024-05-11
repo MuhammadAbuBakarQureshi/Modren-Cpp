@@ -7,8 +7,8 @@ using namespace std;
 
 int main() {
 
-	exceptions();
+    constexprFunction();
 
-	return 0;
+    return 0;
 
 }

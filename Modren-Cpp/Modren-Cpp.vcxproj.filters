@@ -57,6 +57,12 @@
     <ClCompile Include="Basics of Modren Cpp\Functions\InlineFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\Functions\Non-ReturningFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Basics of Modren Cpp\InitializeNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h">

@@ -1,24 +1,33 @@
 #pragma once
 
 
+// From Basics of Modren Cpp
+
 int helloWorld();
 
 int rawStringLiterals();
 
 int assign();
 
-int scope();
+//// From Functions
 
-int returnType();
 
-int implicitConversion();
+	int scope();
 
-int functionOverloading();
+	int returnType();
 
-int staticVariable();
+	int implicitConversion();
 
-int returnPair();
+	int functionOverloading();
 
-int returnTuple();
+	int staticVariable();
+	
+	int inlineFunction();
 
-int inlineFunction();
+	int nonReturningFunction();
+
+////// From Structured Bindings
+
+		int returnPair();
+
+		int returnTuple();

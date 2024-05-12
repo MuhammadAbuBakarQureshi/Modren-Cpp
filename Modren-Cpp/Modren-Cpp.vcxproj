@@ -148,6 +148,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Basics of Modren Cpp\Arrays\ArrayFunctions.h" />
     <ClInclude Include="Basics of Modren Cpp\Functioncs.h" />
     <ClInclude Include="Basics of Modren Cpp\Functions\Functions.h" />
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />

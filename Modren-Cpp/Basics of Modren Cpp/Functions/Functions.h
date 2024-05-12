@@ -1,28 +1,31 @@
 #pragma once
 
-// From Functions
+
+// From Basics of Modren Cpp
+
+//// From Functions
 
 
-int scope();
+	int scope();
 
-int returnType();
+	int returnType();
 
-int implicitConversion();
+	int implicitConversion();
 
-int functionOverloading();
+	int functionOverloading();
 
-int staticVariable();
+	int staticVariable();
 
-int inlineFunction();
+	int inlineFunction();
 
-int nonReturningFunction();
+	int nonReturningFunction();
 
-int exceptions();
+	int exceptions();
 
-int constexprFunction();
+	int constexprFunction();
 
-//// From Structured Bindings
+////// From Structured Bindings
 
-	int returnPair();
+		int returnPair();
 
-	int returnTuple();
+		int returnTuple();

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <print>
-#include "Matrices-Calculation\Matrices-Functions.h"
 #include "Basics of Modren Cpp\Functions\Functions.h"
+#include "Basics of Modren Cpp/Arrays/ArrayFunctions.h"
 
 
 
@@ -9,8 +9,8 @@ using namespace std;
 
 int main() {
 
-    exceptions();
-
+    arrayWhileLoop();
+    
     return 0;
 
 }

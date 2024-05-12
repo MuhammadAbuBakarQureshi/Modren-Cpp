@@ -80,5 +80,8 @@
     <ClInclude Include="Basics of Modren Cpp\Functions\Functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Basics of Modren Cpp\Arrays\ArrayFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,13 +1,15 @@
 #include <iostream>
 #include <print>
 #include "Matrices-Calculation\Matrices-Functions.h"
-#include "Basics of Modren Cpp\Functioncs.h"
+#include "Basics of Modren Cpp\Functions\Functions.h"
+
+
 
 using namespace std;
 
 int main() {
 
-    constexprFunction();
+    exceptions();
 
     return 0;
 

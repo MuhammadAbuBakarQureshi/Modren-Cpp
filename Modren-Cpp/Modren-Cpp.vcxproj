@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Basics of Modren Cpp\Arrays\WhileLoop.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Assign.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\Constexpr.cpp" />
     <ClCompile Include="Basics of Modren Cpp\Functions\Exception.cpp" />
@@ -148,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Basics of Modren Cpp\Functioncs.h" />
+    <ClInclude Include="Basics of Modren Cpp\Functions\Functions.h" />
     <ClInclude Include="Matrices-Calculation\Matrices-Functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
